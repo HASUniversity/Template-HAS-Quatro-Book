@@ -7,7 +7,7 @@ book:
   author: "John Ypma"
   date: today
   date-format: "D MMMM YYYY"
-  favicon: has-logo-donker.png
+  favicon: images/has-logo-dark.png
   chapters:
     - index.qmd
     - intro.qmd
@@ -26,7 +26,7 @@ book:
   # kleur kun je hieronder de naam van het logo
   # veranderen in HAS-logo-donker.png
   # 
-    logo: HAS-logo-licht.png
+    logo: images/HAS-logo-light.png
     search: true
     left:
       - text: "Blackboard"
@@ -59,9 +59,9 @@ format:
 #   has-blauw.scss (Blauw)
 #   has-rood.scss (Rood)
 #   has-paars.scss (Paars/Roze) 
-      - has-default.scss
+      - styles/has-default.scss
     css:
-      - has-algemeen.css
+      - styles/has-algemeen.css
 
 
 

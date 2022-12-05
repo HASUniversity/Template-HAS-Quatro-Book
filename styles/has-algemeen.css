@@ -4,6 +4,6 @@
 }
 
 #quarto-sidebar:before {
-    content: url(plaatje-sidebar.png);
+    content: url(../images/plaatje-sidebar.png);
 }
   
